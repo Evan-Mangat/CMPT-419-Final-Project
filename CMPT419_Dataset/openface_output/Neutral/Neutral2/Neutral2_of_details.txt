@@ -1,0 +1,10 @@
+Input:C:\Users\dania_e2aud1o\Downloads\CMPT419_Dataset_Annotated\Neutral\Neutral2.mp4
+Input full path:C:\Users\dania_e2aud1o\Downloads\CMPT419_Dataset_Annotated\Neutral\Neutral2.mp4
+Camera parameters:984.375,984.375,540,540
+Output csv:Neutral2.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 0

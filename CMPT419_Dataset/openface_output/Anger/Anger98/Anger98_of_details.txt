@@ -1,0 +1,10 @@
+Input:C:\Users\dania_e2aud1o\Downloads\CMPT419_Dataset_Annotated\Anger\Anger98.mp4
+Input full path:C:\Users\dania_e2aud1o\Downloads\CMPT419_Dataset_Annotated\Anger\Anger98.mp4
+Camera parameters:1312.5,1312.5,960,540
+Output csv:Anger98.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 0
